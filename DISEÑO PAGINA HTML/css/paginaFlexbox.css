@@ -1,0 +1,37 @@
+.container{
+    height: 1000px;
+    display:flex;
+    flex-wrap: wrap;
+    background-color: blue;
+    text-align:center;
+    flex-direction:column ;
+    border: 1px black solid;
+   
+
+   
+   
+}
+.header1{
+    border:1px black solid;
+    width:100%;
+}
+.section1{
+    border: 1px black solid;
+    width:30%;
+    background-color:aqua;
+   
+}
+.section2{
+    border: 1px black solid;
+    width:70%;
+    background-color:pink;
+   
+}
+
+
+}
+#row{
+    width: 100%;
+    border: 1px black solid;
+    flex-direction:center;
+}

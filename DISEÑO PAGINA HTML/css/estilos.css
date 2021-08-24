@@ -1,0 +1,160 @@
+* {
+    text-align: center;
+    font-family: 'Aharoni';
+}
+
+.body {
+    width: 60%;
+    /*60%*/
+    height: 870px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: RGB(1, 87, 155);
+    border: solid black;
+}
+
+.header1 {
+    border: solid black;
+    width: 96%;
+    /*96%;*/
+    height: 65px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: RGB(2, 136, 209);
+}
+
+
+/*identificxadores*/
+
+#navMenu {
+    border: solid black;
+    width: 90%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: RGB(236, 239, 241);
+}
+
+.section1 {
+    float: left;
+    border: solid black;
+    width: 25%;
+    height: 665px;
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color: RGB( 2, 136, 209);
+}
+
+
+/*clases*/
+
+.header2,
+.footer1 {
+    border: solid black;
+    background-color: RGB(236, 239, 241);
+    width: 80%;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#navMenu2 {
+    border: solid black;
+    width: 80%;
+    height: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: silver;
+}
+
+.section2 {
+    float: right;
+    border: solid black;
+    width: 68%;
+    height: 665px;
+    margin-top: 15px;
+    margin-right: 15px;
+    background-color: RGB( 2, 136, 209);
+}
+
+.header3,
+.parrafo,
+.footer2 {
+    border: solid black;
+    background-color: RGB(236, 239, 241);
+    width: 90%;
+    height: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.article1 {
+    border: solid black;
+    width: 90%;
+    height: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: RGB(3, 169, 244);
+}
+
+.article2 {
+    border: solid black;
+    width: 90%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(3, 169, 244);
+}
+
+
+/*identificxadores*/
+
+#parr {
+    border: solid black;
+    width: 53%;
+    height: 130px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 15px;
+    background-color: rgb(236, 239, 241);
+    text-align: justify;
+}
+
+.aside1 {
+    border: solid black;
+    width: 30%;
+    height: 130px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.footer3 {
+    border: solid black;
+    background-color: RGB( 2, 136, 209);
+    width: 34%;
+    /*33%;*/
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 9%;
+    /*margin-top:11%;*/
+    position: absolute;
+}
+
+#foot {
+    border: solid black;
+    background-color: RGB( 2, 136, 209);
+    width: 57%;
+    /*57%;*/
+    height: 40px;
+    margin-top: 37%;
+    /*margin-top: 46%;*/
+    margin-left: 10px;
+    position: absolute;
+}
